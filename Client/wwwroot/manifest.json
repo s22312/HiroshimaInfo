@@ -1,1 +1,40 @@
-{}
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "version": "0.0.1",
+    "name": "ひろしまインフォメーション",
+    "short_name": "ひろしまインフォ",
+    "description": "広島の情報を集めたアプリケーションです。",
+    "display": "standalone",
+    "background_color": "#fff",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "icon_64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "icon_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "TODO_screenshots": []
+}
