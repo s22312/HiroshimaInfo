@@ -1,1 +1,1 @@
-dotnet run --project Server --urls http://0.0.0.0:5100
+dotnet run --project Server --urls http://0.0.0.0:8400

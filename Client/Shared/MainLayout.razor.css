@@ -21,6 +21,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    transition: color 0.2s ease-in-out;
+}
+
+.Footer > a.Active {
+    color: aqua;
 }
 
 .Footer > a > svg {
@@ -30,4 +35,10 @@
 
 .Footer > a > span {
     font-size: .5em;
+}
+
+@media (display-mode: browser) {
+    .Footer {
+        display: none;
+    }
 }
