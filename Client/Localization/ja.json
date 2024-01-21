@@ -2,5 +2,8 @@
     "MainLayout.Home": "ホーム",
     "MainLayout.News": "ニュース",
     "MainLayout.Settings": "設定",
-    "Home.Home": "ホーム"
+    "Home.Home": "ホーム",
+    "News.News": "ニュース",
+    "Settings.Settings": "設定",
+    "Settings.Language": "言語"
 }

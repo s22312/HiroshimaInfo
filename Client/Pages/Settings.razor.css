@@ -1,0 +1,27 @@
+.Settings {
+    display: flex;
+    flex-direction: column;
+}
+
+.Settings > div {
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+}
+
+.Settings > div:first-child {
+    border-top: 1px solid #ccc;
+}
+
+::deep svg {
+    height: 32px;
+    width: 32px;
+}
+
+.Settings > div > span {
+    font-size: 24px;
+}

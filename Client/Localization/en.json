@@ -1,5 +1,9 @@
 {
     "MainLayout.Home": "Home",
     "MainLayout.News": "News",
-    "MainLayout.Settings": "Settings"
+    "MainLayout.Settings": "Settings",
+    "Home.Home": "Home",
+    "News.News": "News",
+    "Settings.Settings": "Settings",
+    "Settings.Language": "Language"
 }
